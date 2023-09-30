@@ -4,11 +4,11 @@ import { getDatabase,ref ,get,child,set} from "firebase/database";
 import React, {useEffect, useState} from "react";
 
 const firebaseConfig = {
-   apiKey: "AIzaSyBmxrC_C4QlJs4-JO6Ap5HSp_e98dRxCc8",
-  authDomain: "test-24dd8.firebaseapp.com",
-  databaseURL: "https://test-24dd8-default-rtdb.europe-west1.firebasedatabase.app",
-  projectId: "test-24dd8",
-  storageBucket: "test-24dd8.appspot.com",
+   apiKey: "AIzaSyBmxrC_C4QlJs4-JO6Ap5HSp_e98dRxCc821",
+  authDomain: "test-24dhgsfd8.firebaseapp.com",
+  databaseURL: "https://test-24dhgsfd8-default-rtdb.europe-west1.firebasedatabase.app",
+  projectId: "test-24dhgsfd8",
+  storageBucket: "test-24dhgsfd8",
   messagingSenderId: "599038139951",
   appId: "1:599038139951:web:6c0c9c5c9039317304b0da",
 
