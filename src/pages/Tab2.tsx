@@ -17,9 +17,9 @@ import React, {useEffect, useState} from "react";
 const firebaseConfig = {
    apiKey: "A",
   authDomain: "test-24dd8.firebaseapp.com",
-  databaseURL: "h",
+  databaseURL: "htpp",
   projectId: "test-24dd8",
-  storageBucket: "test-24dd8.appspot.com",
+  storageBucket: "tesom",
   messagingSenderId: "599038139951",
   appId: "1:599038139951:web:6c0c9c5c9039317304b0da",
 
